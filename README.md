@@ -28,6 +28,7 @@ Pass a MongoDB ObjectId (or a string that can be converted to one) and it will r
 ```javascript
 var shortId = require('short-mongo-id');
 var id = shortId("507f191e810c19729de860ea"); // returns "iTxuMF"
+```
 
 License
 -------
