@@ -1,0 +1,15 @@
+{
+	"name": "short-mongo-id",
+	"description": "Short id generation from MongoDB ObjectId's",
+	"keywords": [
+		"mongo",
+		"mongodb",
+		"short-id",
+		"shortener"
+	],
+	"version": "0.1.0",
+	"dependencies": {
+		"bson" : "0.1.x"
+	},
+	"main": "./index.js"
+}
